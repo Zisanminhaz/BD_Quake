@@ -120,7 +120,6 @@ We welcome contributions! If you'd like to improve BD_Quake, please follow these
 
 Through this project, I learned how to:
 
-* Design and implement REST APIs for backend services.
 * Integrate user authentication and session management.
 * Work with MySQL databases for storing and retrieving application data.
 * Create dynamic, map-based data visualizations using Leaflet.js.
