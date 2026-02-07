@@ -51,7 +51,7 @@ BD_Quake addresses these challenges by:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bd-quake.git
+git clone https://github.com/Zisanminhaz/BD_Quake.git
 ```
 
 ### 2. Set Up the Environment
