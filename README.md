@@ -1,5 +1,4 @@
 
-
 # BD_Quake – Earthquake Damage & Shelter Information System
 
 BD_Quake is a full-stack, web-based application designed to assist in disaster management during earthquakes. The platform provides real-time information on damaged buildings, allows users to report damaged locations, view nearby shelters on an interactive map, and enables authorities to manage and analyze earthquake-related data efficiently.
@@ -23,7 +22,6 @@ BD_Quake addresses these challenges by:
 * Offering an admin panel to manage and analyze reports and shelter data.
 
 ## 🛠️ Tech Stack
-
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** PHP (RESTful APIs)
 * **Database:** MySQL
@@ -39,8 +37,6 @@ BD_Quake addresses these challenges by:
 5. **UI Update:** The frontend dynamically updates the user interface based on the returned data.
 
 ## 🧩 Key Concepts & Technologies Used
-
-* **REST APIs:** The application uses RESTful API endpoints for communication between the frontend and backend.
 * **CRUD Operations:** The system performs Create, Read, Update, and Delete operations to manage reports, shelters, and user data.
 * **Authentication & Authorization:** Session-based authentication ensures secure access to the platform.
 * **Database Integration:** MySQL database is used for storing user reports, shelter data, and other related information.
