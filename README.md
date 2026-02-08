@@ -23,7 +23,7 @@ BD_Quake addresses these challenges by:
 
 ## 🛠️ Tech Stack
 * **Frontend:** HTML, CSS, JavaScript
-* **Backend:** PHP (RESTful APIs)
+* **Backend:** PHP
 * **Database:** MySQL
 * **Mapping:** Leaflet.js (Interactive Maps)
 * **Version Control:** Git & GitHub
