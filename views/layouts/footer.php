@@ -1,6 +1,6 @@
     <footer class="footer">
         <div class="container">
-            <span>authorized by The Boys</span>
+            <span>Authorized by Minhaz Alam Jisan</span>
         </div>
     </footer>
 </div> <!-- end .main-wrapper -->
